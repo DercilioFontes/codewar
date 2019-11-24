@@ -1,6 +1,7 @@
 // reference: https://www.geeksforgeeks.org/generate-unique-partitions-of-an-integer/
 
 function sum(num) {
+
   const arrPart = new Array(num);
   let last = 0;
   arrPart[last] = num;
