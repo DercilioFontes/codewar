@@ -11,7 +11,8 @@
       "./SimplePigLatin",
       "./HighestAndLowest",
       "./RemoveTheMinimum",
-      "./ANeedleInTheHaystack"
+      "./ANeedleInTheHaystack",
+      "./BuildTower"
     ]
   }
 }
