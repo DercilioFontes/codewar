@@ -12,7 +12,8 @@
       "./HighestAndLowest",
       "./RemoveTheMinimum",
       "./ANeedleInTheHaystack",
-      "./BuildTower"
+      "./BuildTower",
+      "./FormatStringOfNames"
     ]
   }
 }
