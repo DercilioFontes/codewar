@@ -13,7 +13,9 @@
       "./RemoveTheMinimum",
       "./ANeedleInTheHaystack",
       "./BuildTower",
-      "./FormatStringOfNames"
+      "./FormatStringOfNames",
+      "./VigenèreCipherHelper",
+      "./SumDecomposition"
     ]
   }
 }
