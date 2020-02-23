@@ -20,9 +20,9 @@ function validBraces(braces) {
 module.exports = validBraces;
 
 /**
- * other solutions
+ * other solution
  *
- * function validBraces(braces){
+ function validBraces(braces){
  while(/\(\)|\[\]|\{\}/g.test(braces)){braces = braces.replace(/\(\)|\[\]|\{\}/g,"")}
  return !braces.length;
 }
