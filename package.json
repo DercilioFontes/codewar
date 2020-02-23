@@ -15,7 +15,8 @@
       "./BuildTower",
       "./FormatStringOfNames",
       "./VigenèreCipherHelper",
-      "./SumDecomposition"
+      "./SumDecomposition",
+      "./BouncingBalls"
     ]
   }
 }
