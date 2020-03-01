@@ -16,7 +16,8 @@
       "./FormatStringOfNames",
       "./VigenèreCipherHelper",
       "./SumDecomposition",
-      "./BouncingBalls"
+      "./BouncingBalls",
+      "./ValidBraces"
     ]
   }
 }
