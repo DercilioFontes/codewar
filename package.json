@@ -17,7 +17,8 @@
       "./VigenèreCipherHelper",
       "./SumDecomposition",
       "./BouncingBalls",
-      "./ValidBraces"
+      "./ValidBraces",
+      "./ToCamelCase"
     ]
   }
 }
