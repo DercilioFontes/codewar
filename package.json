@@ -18,7 +18,9 @@
       "./SumDecomposition",
       "./BouncingBalls",
       "./ValidBraces",
-      "./ToCamelCase"
+      "./ToCamelCase",
+      "./WhereAnagrams",
+      "./FindOddInt"
     ]
   }
 }
