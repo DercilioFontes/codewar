@@ -20,7 +20,8 @@
       "./ValidBraces",
       "./ToCamelCase",
       "./WhereAnagrams",
-      "./FindOddInt"
+      "./FindOddInt",
+      "./TextAlignJustify"
     ]
   }
 }
