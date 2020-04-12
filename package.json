@@ -22,7 +22,8 @@
       "./WhereAnagrams",
       "./FindOddInt",
       "./TextAlignJustify",
-      "./DeleteNth"
+      "./DeleteNth",
+      "./CreditCardMask"
     ]
   }
 }

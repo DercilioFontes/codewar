@@ -1,6 +1,3 @@
-
-
-
 const maskify = require("./maskify");
 
 test("test 1", () => {
