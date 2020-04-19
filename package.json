@@ -23,7 +23,8 @@
       "./FindOddInt",
       "./TextAlignJustify",
       "./DeleteNth",
-      "./CreditCardMask"
+      "./CreditCardMask",
+      "./CommonDenominators"
     ]
   }
 }
