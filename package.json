@@ -24,7 +24,8 @@
       "./TextAlignJustify",
       "./DeleteNth",
       "./CreditCardMask",
-      "./CommonDenominators"
+      "./CommonDenominators",
+      ".PartIntReloaded"
     ]
   }
 }
